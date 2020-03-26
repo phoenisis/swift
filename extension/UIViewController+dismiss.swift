@@ -1,5 +1,5 @@
 //
-//  UIViewController+dismiss.swift
+//  UIViewController+Dismiss.swift
 //  Utils
 //
 //  Created by Quentin Yann PIDOUX on 04/03/2019.
