@@ -1,5 +1,5 @@
 //
-//  Colors.swift
+//  Colors+Extension.swift
 //  Utils
 //
 //  Created by Quentin Yann PIDOUX on 13/06/2017.

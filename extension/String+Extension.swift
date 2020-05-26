@@ -1,5 +1,5 @@
 //
-//  String+Utils.swift
+//  String+Extension.swift
 //  Utils
 //
 //  Created by Quentin Yann PIDOUX on 07/11/2018.
